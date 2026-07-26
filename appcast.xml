@@ -13,8 +13,8 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/hairpin-labs/pointe-releases/releases/download/v0.1.0/Pointe-0.1.0-universal.zip"
-        sparkle:edSignature="OXSg5sVl3uBtdZkntV6i0qEihULJL+F+uEEROsL4aj82P3FYEV8zzI/iHRauTROcH9VZu2lojMtvP4k+EQxmAQ=="
-        length="3538272"
+        sparkle:edSignature="ifxEZ+XhOLpH3q536mzkxQawY8f6hZDbMP7kItEfvlRZDT0yaCX/eIotG+jy+neXgqY7oicUFHzVtf3PjOWuAQ=="
+        length="3316794"
         type="application/octet-stream" />
     </item>
   </channel>
