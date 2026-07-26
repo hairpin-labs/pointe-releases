@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Pointe</title>
+    <link>https://github.com/hairpin-labs/pointe-releases</link>
+    <description>Most recent Pointe releases</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Fri, 25 Jul 2026 12:00:00 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/hairpin-labs/pointe-releases/releases/download/v0.1.0/Pointe-0.1.0-universal.zip"
+        sparkle:edSignature="OXSg5sVl3uBtdZkntV6i0qEihULJL+F+uEEROsL4aj82P3FYEV8zzI/iHRauTROcH9VZu2lojMtvP4k+EQxmAQ=="
+        length="3538272"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
