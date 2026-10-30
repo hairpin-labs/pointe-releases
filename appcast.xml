@@ -6,6 +6,18 @@
     <description>Most recent Pointe releases</description>
     <language>en</language>
     <item>
+      <title>Version 0.1.1</title>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/hairpin-labs/pointe-releases/releases/download/v0.1.1/Pointe-0.1.1-universal.zip"
+        sparkle:edSignature="U0GM+S+F5ReTkKtik5eaI0SW7ld0cijPeZ5NlaLM4JHp1wv3koE4LjEtnL3Elnf495LZAXhzYcEcdqAuvxNjBw=="
+        length="3244248"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.1.0</title>
       <pubDate>Fri, 25 Jul 2026 12:00:00 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
